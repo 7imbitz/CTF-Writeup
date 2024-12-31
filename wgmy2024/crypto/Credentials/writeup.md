@@ -1,6 +1,6 @@
 # Credentials
 
-[[image link here]]
+![https://github.com/7imbitz/CTF-Writeup/blob/main/wgmy2024/crypto/Credentials/image/question.png](https://github.com/7imbitz/CTF-Writeup/blob/main/wgmy2024/crypto/Credentials/image/question.png)
 
 Question gave us Leaked_stuff.rar
 [[image link here]]
